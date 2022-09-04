@@ -1,5 +1,5 @@
 # Parts Icons
- Parts vector drawable icons for you xiaomi device tree
+ Parts vector drawable icons for your xiaomi device tree
 
 ![image](https://user-images.githubusercontent.com/37253994/188299193-14ba8a2b-a631-4b1e-b0ff-ce8623ed176e.png)
 
