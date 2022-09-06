@@ -1,10 +1,7 @@
 
-Parts vector drawable icons for your xiaomi device tree
--------------------------------------------------------
+Parts vector drawable icons for your Xiaomi device tree
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/37253994/188299193-14ba8a2b-a631-4b1e-b0ff-ce8623ed176e.png" />
-</p>
+<img src="https://raw.githubusercontent.com/WSTxda/Parts-Icons/main/Images/Banner.svg" />
 
 Please don't create **false authorship** on the creation of any icon, use them at will but don't make me upset... (⁠ ー ⁠_⁠ ー ⁠ ゛ ⁠)
 
