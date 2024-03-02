@@ -3,7 +3,7 @@
     android:height="24dp"
     android:viewportWidth="24"
     android:viewportHeight="24"
-    android:tint="??android:attr/colorAccent">
+    android:tint="?android:attr/colorAccent">
     <path
         android:fillColor="#FF000000"
         android:pathData="M22 10v3.81c-0.61-0.35-1.28-0.59-2-0.72V12H4v8h9.09c0.12 0.72 0.37 1.39 0.72 2H4c-0.53 0-1.04-0.21-1.41-0.59C2.2 21.04 2 20.53 2 20V10h20Zm-5.29-2.93l-2.74-3.53L12 3.93l2.75 3.53 1.96-0.39Zm4.91-0.97l-0.78-3.92-3.93 0.78 2.74 3.54 1.97-0.4Zm-9.81 1.95L9.07 4.5 7.1 4.91l2.75 3.53 1.96-0.39ZM4.16 5.5L3.18 5.69c-0.26 0.05-0.5 0.15-0.72 0.3-0.22 0.14-0.4 0.33-0.55 0.55C1.76 6.76 1.66 7 1.6 7.26c-0.05 0.26-0.05 0.52 0 0.78L2 10l4.9-0.97L4.16 5.5ZM17 22l5-3-5-3v6Z"/>
