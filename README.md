@@ -1,6 +1,8 @@
 ### Xiaomi Parts vector drawable icons for your Xiaomi device tree
 
-<img src="https://raw.githubusercontent.com/WSTxda/Parts-Icons/main/Images/Banner.svg" />
+<div style="width: 100%; overflow: hidden;">
+	<img src="https://raw.githubusercontent.com/WSTxda/Parts-Icons/main/Images/Banner.svg" style="width: 100%;">
+</div>
 
 #### To use icons just download this repository
 
